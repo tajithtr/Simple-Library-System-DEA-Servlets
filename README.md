@@ -123,7 +123,7 @@ INSERT INTO books (title, author, status) VALUES
 ## 🚀 How to Run
 
 1. Open the project in **NetBeans IDE**.  
-2. Set up your **database connection** inside `DBConnection.java` (if available).  
+2. Set up your **database connection** 
 3. Run the SQL script above to set up the **`librarydb`** database.  
 4. Deploy to **Tomcat** or **GlassFish Server**.  
 5. Open the browser and test via the login page.  
