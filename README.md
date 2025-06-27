@@ -1,6 +1,6 @@
 # Book Reservation System
 
-![Interface Screenshot](screenshot/interface.png)
+![Interface Screenshot](Screenshots/interface.png)
 
 ## 📚 Project Overview
 
